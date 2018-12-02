@@ -30,6 +30,6 @@ do
 count=$((count + 1))
 echo $count
 echo $line
-echo sed -i '{$count}s/ASFKJL/{$line}/' uploadscriptnodate.sh
+sed '{$count}s/ASFKJL/{$line}/' uploadscriptnodate.sh
 
 done

@@ -1,8 +1,2 @@
-/Users/babadoctor/Desktop/upload/code/2001Gondola.webm
-/Users/babadoctor/Desktop/upload/code/5cmPerGondola.webm
-/Users/babadoctor/Desktop/upload/code/AdventureTimeGondola.webm
-/Users/babadoctor/Desktop/upload/code/AncientGondola2.webm
-/Users/babadoctor/Desktop/upload/code/AquaticGondola2.webm
-/Users/babadoctor/Desktop/upload/code/AtSeventeen.webm
-/Users/babadoctor/Desktop/upload/code/CantStopNow.webm
-/Users/babadoctor/Desktop/upload/code/CommutingWageDola.webm
+/Users/babadoctor/Desktop/gitutorial/CantStopNow.webm
+/Users/babadoctor/Desktop/gitutorial/GondolaMagicant.webm
